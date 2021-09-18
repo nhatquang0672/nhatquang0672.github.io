@@ -9,7 +9,7 @@
 title: Quang Tran
 
 # Your name to show in the footer
-author: Quang
+author: Someone
 
 # --- List of links in the navigation bar --- #
 
@@ -205,7 +205,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "posts"
+      path: ""
       type: "posts"
     values:
       layout: "post"
