@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Practical Nightingale
+title: Practical Nightingale Week
 subtitle: Consistency is the key
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
