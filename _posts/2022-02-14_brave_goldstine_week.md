@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: post
 title: Brave Goldstine Week
