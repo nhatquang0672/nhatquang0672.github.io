@@ -34,8 +34,6 @@ I can solve this problem by several ways, but I'll post the newest way I found a
         return s
 ```
 
-
-
 #### [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 _Sat 12 Feb_
@@ -53,54 +51,45 @@ This is really nice problem using sliding window. I've read a post from Leetcode
 
 I'm stop at here. To be continued :V 
 
+Now, let continue after pending 48h.
 
-<!-- #### [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
-
-_Thursday 13 Jan_
-
-It's an easy question for me. But writing clear, clean code is not easy, so the medium level is right :v. 
-
-Sorting with start time or end time is ok, but will have a different comparison to get the correct answer.
-
-If you have two interval [s1, e1], and [s2, e2] => two intervals have an intersection if **(e1 >= s2 and e2 >= s1)**
-
-I'll do it again.
-.
-.
-.
-Less than 10 minutes to solve this problem again. First, I sorted the input with start time and don't have a clean, clear code. But, I do it with this try.
+I try to find the post I learned a lot about applying sliding window to string problems but I can't. I'll update this if I can get it later.
 
 
-#### [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+#### [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
-_Wednesday 12 Jan_
+_Thursday 10 Feb_
 
-It's easy problem. I solved it with iteration for the first time and recursion for the second time. 
+It's not hard problem. Although I submitted some wrong answer but it don't change my mind :v. Let do it again and hope I can solve it in the first time :v .
 
-
-#### [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
-
-_Tuesday 11 Jan_
-
-Another tree problem. For the first time, I need a string path to track value from root to left and use the built-in function int(str, base) to get the answer. But it will be easier if use bit manipulation. `_cur_val = cur_val << 1 | node.val_`
+I try to do another approach but I was failed. Hmmmm...
 
 
-#### [67. Add Binary](https://leetcode.com/problems/add-binary/)
+#### [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 
-_Monday 10 Jan_
+_Wednesday 09 Feb_
 
-The idea for this problem is straightforward but writing a clean, clear solution is not easy. 
-Let do it again.
-. 
-.
-.
-Done, after maybe less than 10 minutes. 
+THe same with the problem "Subarray Sum Equals K". I solve both of them by using map/dictionary.
 
+
+#### [258. Add Digits](hhttps://leetcode.com/problems/add-digits/)
+
+_Tuesday 08 Feb_
+
+Although Leetcode think that this problem is easy, but with my view, it's not easy. Can you solve it with O(1) runtime?
+
+I don't realize that the result related to original number mod 9.
+
+#### [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)
+
+_Monday 07 Feb_
+
+I don't have anything to talk about this problem. I solve it with map/dict and after reading the discussion, we handle it with XOR operation.
 
 ### Weekly Contest
 
-I solved 3 problems in [**this weekly contest**](https://leetcode.com/contest/weekly-contest-276).
+I just solve first problems in [**this weekly contest**](https://leetcode.com/contest/weekly-contest-280). It's really bad. 
 
-I'm too lazy now, maybe I'll add my comment next week. 
+The third problem is easy but because I stuck with the second problem so I don't have enough time to solve it.
 
-Too much for the first time. -->
+Honestly, the second problem is not hard, I immediately got the right idea but don't pass the all testcase because I was missed some case?. Hmmm, it's bad, it's more bad, it's more more bad bad :v
